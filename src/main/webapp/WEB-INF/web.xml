@@ -7,8 +7,7 @@
   <display-name>spring-mvc-app1</display-name>
 
   <absolute-ordering/>
-
-  // create servlet with name "dispatcher"
+  
   <servlet>
     <servlet-name>dispatcher</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
